@@ -9,8 +9,7 @@ kalimat.innerHTML = "";pesanAkhir.innerHTML="";
 
 const box = document.getElementById('pergeseran');
 const directChildren = box.children.length;
-console.log('Script Lainnya di : Malas.id');
-console.log('Total Slide: ', directChildren);
+// console.log('Total Slide: ', directChildren);
 totalPesan = directChildren;
 
 aktigeser=0;thisgeser=1;
@@ -56,7 +55,7 @@ document.getElementById("loveIn").onclick = function() {
   	   pergeseran.style="position:relative;";
          ketgeser.style="position:relative";
          ftganti=10;fthilang();
-         setTimeout(bqmuncul,500);
+         setTimeout(bqmuncul,1000);
   }
   
   function kalimatakhir(){
