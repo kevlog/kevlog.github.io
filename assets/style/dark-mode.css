@@ -1,1 +1,1 @@
-.darkmode--activated p, .darkmode--activated a, .darkmode--activated i, .darkmode--activated h1, .darkmode--activated h2 {color: white;}.darkmode--activated a:hover {color: green;}.button {isolation: isolate;}.darkmode--activated .logo {mix-blend-mode: difference;}
+.darkmode--activated a,.darkmode--activated h1,.darkmode--activated h2,.darkmode--activated i,.darkmode--activated p{color:#fff}.darkmode--activated a:hover{color:green}.button{isolation:isolate}.darkmode--activated .logo{mix-blend-mode:difference}
